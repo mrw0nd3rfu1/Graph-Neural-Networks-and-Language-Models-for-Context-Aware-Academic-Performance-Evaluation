@@ -1,0 +1,66 @@
+======================================================================
+XAI ANALYSIS REPORT - Student 0
+======================================================================
+
+STUDENT PROFILE:
+----------------------------------------------------------------------
+Performance Score: 1
+Stress Score: 2
+Confidence Score: 3
+
+
+QUANTITATIVE FEATURE IMPORTANCE:
+----------------------------------------------------------------------
+Performance: 0.0016
+Stress: 0.0014
+Confidence: 0.0009
+Embeddings: 0.0009
+
+
+QUALITATIVE FEATURE ANALYSIS:
+----------------------------------------------------------------------
+
+How do you handle academic stress?:
+  Match Rate: 80.0%
+  Student's Response: Experiment with different strategies → I explore multiple wa
+  Common Response: Experiment with different strategies → I explore multiple wa
+
+What keeps you motivated to study consistently?:
+  Match Rate: 80.0%
+  Student's Response: The goal of achieving good grades → Academic performance dri
+  Common Response: The goal of achieving good grades → Academic performance dri
+
+What is your preferred mode of learning?:
+  Match Rate: 60.0%
+  Student's Response: Visual (diagrams, videos, infographics) → I learn best throu
+  Common Response: Reading/Writing (books, notes, summaries) → I prefer written
+
+How do you retain information best?:
+  Match Rate: 40.0%
+  Student's Response: Revisiting notes multiple times → Frequent review helps me. 
+  Common Response: Revisiting notes multiple times → Frequent review helps me.
+
+What study technique do you use the most?:
+  Match Rate: 40.0%
+  Student's Response: Practice quizzes and solving problems → Improves application
+  Common Response: Rewriting notes and summarizing concepts → Helps reinforce m
+
+
+LEARNING PATTERN ANALYSIS:
+----------------------------------------------------------------------
+Learning Style: Visual (diagrams, videos, infographics) → I learn best through images and videos
+Note-Taking: Typed notes on a device → I prefer digital notes for organization.
+Retention Method: Revisiting notes multiple times → Frequent review helps me.
+Problem-Solving: Seek help from instructors or peers → Collaboration improves my understanding.
+Exam Prep: Studying in groups → Discussions help reinforce learning.
+Study Environment: A background with soft music or ambient noise → Low noise levels improve my focu
+Motivation: The goal of achieving good grades → Academic performance drives me.
+
+
+MOST INFLUENTIAL SIMILAR STUDENTS:
+----------------------------------------------------------------------
+1. Student 237: Performance=1, Stress=0
+2. Student 269: Performance=1, Stress=0
+3. Student 267: Performance=1, Stress=0
+4. Student 309: Performance=1, Stress=0
+5. Student 331: Performance=1, Stress=0
