@@ -75,7 +75,7 @@ These files are not included in this repository; supply your own dataset in the 
 
 This code accompanies the following peer-reviewed paper. If you use this repository in your research, please cite:
 
-> A. Pandey et al., *"[Paper Title]"*, IEEE International Conference on Artificial Intelligence (IEEE-CAI), 2026. Available: https://ieeexplore.ieee.org/abstract/document/11536196
+> A. Pandey et al., IEEE International Conference on Artificial Intelligence (IEEE-CAI), 2026. Available: https://ieeexplore.ieee.org/abstract/document/11536196
 
 ```bibtex
 @inproceedings{pandey2026gnn,
